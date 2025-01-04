@@ -1,0 +1,181 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -4.653
+TNS   : -56.566
+
+Type  : Slow 1100mV 100C Model Setup 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -3.022
+TNS   : -165.183
+
+Type  : Slow 1100mV 100C Model Setup 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 24.257
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.697
+TNS   : -19.010
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -0.538
+TNS   : -51.979
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 0.925
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK2_50'
+Slack : 9.730
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.103
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -5.036
+TNS   : -58.211
+
+Type  : Slow 1100mV -40C Model Setup 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -3.112
+TNS   : -162.641
+
+Type  : Slow 1100mV -40C Model Setup 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 24.099
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.465
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.583
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.688
+TNS   : -17.525
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -0.538
+TNS   : -51.365
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 0.925
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK2_50'
+Slack : 9.754
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.096
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -3.183
+TNS   : -19.266
+
+Type  : Fast 1100mV 100C Model Setup 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -1.313
+TNS   : -65.030
+
+Type  : Fast 1100mV 100C Model Setup 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 30.372
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.701
+TNS   : -10.400
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.049
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 0.925
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK2_50'
+Slack : 9.347
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.405
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -2.475
+TNS   : -14.939
+
+Type  : Fast 1100mV -40C Model Setup 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : -1.029
+TNS   : -51.367
+
+Type  : Fast 1100mV -40C Model Setup 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 31.252
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.168
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.732
+TNS   : -13.485
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'I2C_HDMI_Config:I2C_HDMI_Config0|mI2C_CTRL_CLK'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~FRACTIONAL_PLL|vcoph[0]'
+Slack : 0.925
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK2_50'
+Slack : 9.274
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'pll0|pll_inst|altera_pll_i|general[0].gpll~PLL_OUTPUT_COUNTER|divclk'
+Slack : 17.410
+TNS   : 0.000
+
+------------------------------------------------------------

@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Dec 16 18:47:52 2024
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : DE10_Nano_HDMI_TX
+Top-level Entity Name : DE10_Nano_HDMI_TX
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 188 / 41,910 ( < 1 % )
+Total registers : 197
+Total pins : 145 / 314 ( 46 % )
+Total virtual pins : 0
+Total block memory bits : 72,200 / 5,662,720 ( 1 % )
+Total RAM Blocks : 9 / 553 ( 2 % )
+Total DSP Blocks : 1 / 112 ( < 1 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )
