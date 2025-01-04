@@ -33,3 +33,5 @@ Pour V_count, on compte bien jusqu'à 67 comme car v_res est à 24. v_count est 
 Dans cette partie nous avons pour but de tester la sortie HDMI du FPGA. Pour cela nous avons relié la sortie HDMI du FPGA à l'ordinateur pour pouvoir envoyer une imlage à l'ordinateur à la visualiser grâce à VLC.
 
 Pour cela, nous avons connecter les signaux **o_x_counter** et **o_y_counter** aux canaux de couleurs vert et rouge pour obtenir l'image si dessous.
+
+<p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/tamerelepeliquan4.png" width="600" /></p> 
