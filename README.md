@@ -19,7 +19,7 @@ on fait le ca  lcul : 32 + 61 + 58 + 18 - 1 = 168 On retrouve bien le total lors
 
 Pour le signal de synchronisation il est à 0 jusqu'à h_count = 89 cel   correspond à h_res (=32) + h_fp (=58) -1. Il respasse bien à 1 au momoent du "back porch" donc à h_count = 151.
 
-<p align="center"><img src="https://github.com/JolanTho/2425_ESE_AutoRadio_Remi_Jolan/blob/main/Photos/parametre_SAI2.png" width="600" /></p> 
+<p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/tamerelepeliquan3.png" width="600" /></p> 
 
 Pour V_count, on compte bien jusqu'à 67 comme car v_res est à 24. v_count est incrémenté de 1 à chaque fois que h_count a terminé de compte et quand v_count arrive au max alors il recommence à compter.
 
