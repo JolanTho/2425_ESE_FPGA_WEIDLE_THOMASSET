@@ -34,4 +34,4 @@ Dans cette partie nous avons pour but de tester la sortie HDMI du FPGA. Pour cel
 
 Pour cela, nous avons connecter les signaux **o_x_counter** et **o_y_counter** aux canaux de couleurs vert et rouge pour obtenir l'image si dessous.
 
-<p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/tamerelepeliquan4.png" width="600" /></p> 
+<p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/image_vert_et_rouge.png" width="600" /></p> 
