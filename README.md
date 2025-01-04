@@ -3,6 +3,9 @@
 # 2 - Boucing ENSEA logo 
 
 ## 2-1) Contôleur HDMI
+
+### 2-1-1) Écriture du composant 
+
 Les signaux h_res et v_res correspondent à la résolution horizontale et verticale de l'image.
 
 h_sync permet la synchronisation horizontale. 
@@ -24,3 +27,9 @@ Pour le signal de synchronisation il est à 0 jusqu'à h_count = 89 cel   corres
 Pour V_count, on compte bien jusqu'à 67 comme car v_res est à 24. v_count est incrémenté de 1 à chaque fois que h_count a terminé de compte et quand v_count arrive au max alors il recommence à compter.
 
 <p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/tamerelepeliquan4.png" width="600" /></p> 
+
+### 2-1-2) Implémentation sur le FPGA
+
+Dans cette partie nous avons pour but de tester la sortie HDMI du FPGA. Pour cela nous avons relié la sortie HDMI du FPGA à l'ordinateur pour pouvoir envoyer une imlage à l'ordinateur à la visualiser grâce à VLC.
+
+Pour cela, nous avons connecter les signaux **o_x_counter** et **o_y_counter** aux canaux de couleurs vert et rouge pour obtenir l'image si dessous.
