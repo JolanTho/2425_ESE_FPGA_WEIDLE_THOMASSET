@@ -35,3 +35,9 @@ Dans cette partie nous avons pour but de tester la sortie HDMI du FPGA. Pour cel
 Pour cela, nous avons connecter les signaux **o_x_counter** et **o_y_counter** aux canaux de couleurs vert et rouge pour obtenir l'image si dessous.
 
 <p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/image_vert_et_rouge.png" width="600" /></p> 
+
+## 2-2 Bouncing ENSEA logo
+
+Après avoir tester la sortie HDMI du FPGA nous avons récupérer un fichier contenant les valeurs en niveau de gris des pixels pour pouvoir afficher le logo de l'ENSEA. Nous avons d'abord fait en sorte de l'afficher en haut à gauche de l'écran avant de le faire bouger.
+
+<p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/image_vert_et_rouge.png" width="600" /></p> 
