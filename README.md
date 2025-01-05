@@ -43,3 +43,5 @@ Après avoir tester la sortie HDMI du FPGA nous avons récupérer un fichier con
 <p align="center"><img src="https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/Affichage_logo_ensea_statique.png" width="600" /></p> 
 
 https://github.com/JolanTho/2425_ESE_FPGA_WEIDLE_THOMASSET/blob/main/Pictures/IMG_6061.MOV
+
+![](docs/docfx/images/MixtureOpen.gif)
